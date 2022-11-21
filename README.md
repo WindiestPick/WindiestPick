@@ -3,8 +3,8 @@
 
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32px" width="5px"> Highlights
 <div align="left">
-  <a href="https://github.com/WindiestPick/site-suporte.git">
-    <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WindiestPick&repo=site-suporte&show_icons=true&bg_color=19,0a0c10,000000&title_color=fff&text_color=fff&icon_color=fff" alt="WindiestPick" />
+  <a href="https://github.com/WindiestPick/site-support.git">
+    <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WindiestPick&repo=site-support&show_icons=true&bg_color=19,0a0c10,000000&title_color=fff&text_color=fff&icon_color=fff" alt="WindiestPick" />
   </a>
 </div>
 
