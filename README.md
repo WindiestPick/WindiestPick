@@ -1,7 +1,7 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32px" width="30px"> Hi, I am Gustavo Henrique 🎓👨‍🎓💻</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32px" width="30px"> Hi, I am <img src="./assets/img/gustavo1.gif" height="100%" width="100%"> 🎓👨‍🎓💻</h1>
 
 
-<h2 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32px" width="5px"> Highlights <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32px" width="5px"></h2>
+<h2 align="center">✔ Highlights ✔</h2>
 <div align="center">
   <a href="https://github.com/WindiestPick/site-support.git">
     <img height="120em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WindiestPick&repo=site-support&show_icons=true&bg_color=19,0a0c10,000000&title_color=fff&text_color=fff&icon_color=fff" alt="WindiestPick" />
@@ -11,7 +11,7 @@
   </a>
 </div>
 
-<h2 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32px" width="5px"> Techs | Use <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32px" width="5px"></h2> 
+<h2 align="center">☯ Techs | Use ☯</h2> 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
@@ -29,7 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" height="40" width="52" alt="git logo"  />
 </div>
 
-<h2 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32px" width="5px"> Stats <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32px" width="5px"><h2>
+<h2 align="center">✈ Stats ✈<h2>
 <div align="center">
   <a href="https://github.com/WindiestPick">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=WindiestPick&show_icons=true&bg_color=19,0a0c10,000000&title_color=fff&text_color=fff&&icon_color=fff&count_private=true&include_all_commits=true&disable_animations=false">
