@@ -29,7 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" height="40" width="52" alt="git logo"  />
 </div>
 
-<h2 align="center" style="margin-top:75px;">🌌 Stats 🌠<h2>
+<h2 align="center" style="margin-top:75px;">🌟 Stats 🌟<h2>
 <div align="center">
   <a href="https://github.com/WindiestPick">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=WindiestPick&show_icons=true&bg_color=19,0a0c10,000000&title_color=fff&text_color=fff&&icon_color=fff&count_private=true&include_all_commits=true&disable_animations=false">
