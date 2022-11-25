@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32px" width="30px"> Hi, I am  <img align="center" src="./assets/img/gustavo2.gif" height="10%" width="250px">🎓👨‍🎓💻</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32px" width="30px"> Hi, I am  <img align="center" src="./assets/img/gustavo2.gif" height="10%" width="225px">🎓👨‍🎓💻</h1>
 
 <h2 align="center" style="margin-top:20px;">🥇 Highlights 🥇</h2>
 <div align="center">
