@@ -1,4 +1,5 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32px" width="30px"> Hi, I am  <img align="center" src="./assets/img/gustavo2.gif" height="10%" width="225px">🎓👨‍🎓💻</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32px" width="30px"> Hi, I am  🎓👨‍🎓💻</h1>
+<p align="center"><img src="./assets/img/gustavo2.gif" height="10%" width="350px"></p>
 
 <h2 align="center" style="margin-top:20px;">🥇 Highlights 🥇</h2>
 <div align="center">
@@ -10,7 +11,7 @@
   </a>
 </div>
 
-<h2 align="center" style="margin-top:50px;">👨‍💻 Techs | Use 👨‍💻</h2> 
+<h2 align="center" style="margin-top:75px;">👨‍💻 Techs | Use 👨‍💻</h2> 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
@@ -28,7 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" height="40" width="52" alt="git logo"  />
 </div>
 
-<h2 align="center" style="margin-top:50px;">🌌 Stats 🌠<h2>
+<h2 align="center" style="margin-top:75px;">🌌 Stats 🌠<h2>
 <div align="center">
   <a href="https://github.com/WindiestPick">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=WindiestPick&show_icons=true&bg_color=19,0a0c10,000000&title_color=fff&text_color=fff&&icon_color=fff&count_private=true&include_all_commits=true&disable_animations=false">
