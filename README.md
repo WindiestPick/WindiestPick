@@ -36,4 +36,3 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=WindiestPick&show_icons=true&bg_color=19,0a0c10,000000&title_color=fff&text_color=fff&icon_color=fff&layout=compact"/>
 </div>
 
-[![WindiestPick github activity graph](https://activity-graph.herokuapp.com/graph?username=WindiestPick&theme=xcode)](https://github.com/WindiestPick)
