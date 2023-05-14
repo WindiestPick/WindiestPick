@@ -6,7 +6,7 @@
   <a href="https://github.com/WindiestPick/site-support.git">
     <img height="120em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WindiestPick&repo=site-support&show_icons=true&bg_color=19,0a0c10,000000&title_color=fff&text_color=fff&icon_color=fff" alt="WindiestPick" />
   </a>
-  <a href="https://github.com/WindiestPick/files-selector.git">
+  <a href="https://github.com/WindiestPick/send-gmail-auth2.git">
     <img height="120em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WindiestPick&repo=send-gmail-auth2&show_icons=true&bg_color=19,0a0c10,000000&title_color=fff&text_color=fff&icon_color=fff" alt="WindiestPick" />
   </a>
 </div>
